@@ -1,0 +1,68 @@
+target variable - bike buyer
+
+predictor variable - maritial status
+			gender
+			yearly income
+			children
+			education
+			occupation
+			home owner
+			cars
+			commute distance
+			region
+			age
+
+category continous -  yearly income
+			children
+			cars
+			commute distance
+			age
+
+category categorical -  marital status
+			gender
+			education
+			occupation
+			home owner
+			region
+
+
+
+Anonymous function  :  lambda
+			
+
+data cleaning package :  mice
+
+
+
+
+regression analysis : supervised machine learning - linear regression
+
+residual errors  :  deviates from output (hidden errors)
+
+null hypothesis : negative assumption
+
+alternate hypothesis : positive assumption
+
+p<@ : reject null hypothesis
+
+akaikea information criteria - AIC
+
+bayesian information criteria - BIC
+
+if AIC is low then consider that model
+
+if AIC is eaual then compare BIC
+
+If BIC is high then consider that model
+
+
+
+order(x) = 13*1
+order(y) = 13*1
+
+matrix multiplication is not possible
+
+so we apply reshaping for transposing
+
+
+
